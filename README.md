@@ -1,17 +1,14 @@
-<h1 align="center">Hi 👋, I'm Aron Alvarenga👨‍💻</h1>
+<h1 align="center">Hi 👋 My name is Aron 👨‍💻</h1>
 
 <h3 align="center">A passionate Software Engineer from Brazil</h3>
 <img align="right" src="https://c.tenor.com/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif" alt="bruce-almighty-comedy" width="400" />
 
-- 🔭 I’m currently working on... **[My JavaScript Skills](https://github.com/aron-alvarenga?tab=repositories&q=JavaScript&type=&language=&sort=)**
-
-- 🎯 Always Learning... **[PHP](https://github.com/aron-alvarenga?tab=repositories&q=php&type=&language=php&sort=)** / **[Java](https://github.com/aron-alvarenga?tab=repositories&q=java&type=&language=java&sort=)** / **[JavaScript](https://codepen.io/aron-alvarenga)**
-
-- 📫 How to reach me on... **[LinkedIn](https://linkedin.com/in/aron-alvarenga)** 
-
-- 🎓 I got my degree in... **[Tecnologia em Sistemas para Internet - IFMS](https://www.ifms.edu.br/cursos/graduacao/sistemas-para-internet)**
-
-- ⚡ Fun fact... I make funny tech videos for **[TikTok](https://www.tiktok.com/@artesaofrontend)** 
+*   🌍  I'm based in Campo Grande - MS (Brazil)
+*   🚀  I'm currently working on **[Techsec Tecnologia Ltda](http://br.linkedin.com/company/techsec-tecnologia-ltda)**
+*   📫  How to reach me on **[LinkedIn](https://linkedin.com/in/aron-alvarenga)** 
+*   🧠  Always Learning **[PHP](https://github.com/aron-alvarenga?tab=repositories&q=php&type=&language=php&sort=)** / **[Java](https://github.com/aron-alvarenga?tab=repositories&q=java&type=&language=java&sort=)** / **[JavaScript](https://codepen.io/aron-alvarenga)**
+*   🤝  I'm open to collaborating on **Open Source projects**
+*   ⚡  Trying to be a content creator on **[TikTok](https://www.tiktok.com/@aron.alvarenga)**
 
 ### 📲 Connect with me:
 <p align="left">
