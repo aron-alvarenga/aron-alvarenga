@@ -20,7 +20,6 @@ Especialista em Arquitetura de Soluções pela PUC Minas, atualmente trabalho na
 *   🏅  Ex-Bolsista **CNPq** com experiência em modelagem, verificação e validação de sistemas
 *   🤝  Aberto a colaborações em projetos Open Source
 *   📫  Entre em contato através do **[LinkedIn](https://linkedin.com/in/aron-alvarenga)**
-*   ⚡  Compartilho conhecimento sobre desenvolvimento no **[TikTok](https://www.tiktok.com/@aron.alvarenga)**
 
 ## Back-end & Arquitetura
 
