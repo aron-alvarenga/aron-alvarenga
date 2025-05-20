@@ -1,11 +1,11 @@
 <h1 align="center">Aron Alvarenga</h1>
 
-<h3 align="center">Desenvolvedor Front-End | Especialista em Arquitetura de Soluções | JavaScript & React</h3>
+<h3 align="center">Desenvolvedor Full Stack | Especialista em Arquitetura de Soluções | JavaScript/TypeScript</h3>
 <img align="right" src="https://c.tenor.com/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif" alt="bruce-almighty-comedy" width="400" />
 
 ## Sobre Mim
 
-Desenvolvedor Front-End apaixonado por criar interfaces modernas, performáticas e escaláveis. Especialista em Arquitetura de Soluções pela PUC Minas, atualmente trabalho na Techsec Tecnologia Ltda, onde contribuo para o aprimoramento de sistemas em nuvem, incluindo a solução operacional Somaseg e o ERP Cloud Makaw, ambos especializados em segurança e monitoramento. Focado na criação de interfaces intuitivas e responsivas com abordagem Mobile-First e forte atenção à usabilidade, acessibilidade e performance.
+Desenvolvedor Full Stack apaixonado por criar interfaces modernas, performáticas e escaláveis. Especialista em Arquitetura de Soluções pela PUC Minas, atualmente trabalho na Techsec Tecnologia Ltda, onde contribuo para o aprimoramento de sistemas em nuvem, incluindo a solução operacional Somaseg e o ERP Cloud Makaw, ambos especializados em segurança e monitoramento. Focado na criação de interfaces intuitivas e responsivas com abordagem Mobile-First e forte atenção à usabilidade, acessibilidade e performance.
 
 *   🎓  Especialista em **Arquitetura de Soluções** pela PUC Minas
 *   🎓  Tecnólogo em **Sistemas para Internet** pelo IFMS
