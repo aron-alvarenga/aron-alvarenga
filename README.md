@@ -33,7 +33,7 @@ No início da carreira, atuei por **3 anos com Android Automotive** em modelo **
 
 ## 🚀 Experiência Profissional
 
-### Agetec — Desenvolvedor Java | Análise de Dados
+### AGETEC — Direção e Assessoramento de Tecnologia da Informação
 
 **Set/2025 – Atual**
 
