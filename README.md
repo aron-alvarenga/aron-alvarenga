@@ -28,7 +28,7 @@ No passado, atuei como **desenvolvedor backend** em ERP em nuvem e integrações
 
 ## 🚀 Experiência Profissional
 
-### AGETEC — Direção e assessoramento de TI · Desenvolvedor Full Stack (Java / Angular)
+### AGETEC — Assessoramento de TI · Desenvolvedor Full Stack (Java / Angular)
 
 **Set/2025 – Atual**
 
