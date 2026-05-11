@@ -10,7 +10,7 @@ Desenvolvedor Full Stack Java • Angular • Spring Boot • APIs REST • Micr
 
 Sou desenvolvedor com **mais de 5 anos de experiência** em **Java, Spring Boot e ecossistema backend**, com forte atuação também em **frontend com Angular e TypeScript** em ambientes de **iniciativa privada e gestão pública**.
 
-Atualmente estou na **Agetec** (Campo Grande, MS). O cargo oficial inclui **direção e assessoramento em TI**, mas no dia a dia atuo de forma **hands-on** como **desenvolvedor Full Stack**: **Java / Spring Boot** no backend e **Angular** no frontend, em sistemas de educação, arrecadação e saúde — com foco em **APIs REST**, **microsserviços**, modernização de legados e **performance em ambiente cloud**.
+Atualmente estou na **Agetec** (Campo Grande, MS). O cargo oficial inclui **assessoramento em TI**, mas no dia a dia atuo de forma **hands-on** como **desenvolvedor Full Stack**: **Java / Spring Boot** no backend e **Angular** no frontend, em sistemas de educação, arrecadação e saúde — com foco em **APIs REST**, **microsserviços**, modernização de legados e **performance em ambiente cloud**.
 
 **Backend & integração:** Java 21+, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, Docker, testes com JUnit e Mockito, Clean Code e SOLID.
 
